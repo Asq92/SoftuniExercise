@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.exe
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.deps.json
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.pdb
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\refint\09.SumSeconds.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.pdb
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\09.SumSeconds\obj\Debug\net6.0\ref\09.SumSeconds.dll

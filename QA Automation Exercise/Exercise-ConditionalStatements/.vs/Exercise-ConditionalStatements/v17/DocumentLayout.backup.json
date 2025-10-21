@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E400DF-1E84-43B4-87BF-0639F77CF164}|05.VacationExpenses\\05.VacationExpenses.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\05.vacationexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E400DF-1E84-43B4-87BF-0639F77CF164}|05.VacationExpenses\\05.VacationExpenses.csproj|solutionrelative:05.vacationexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6BAF0-476D-40AB-9C4A-F9D4E714B193}|04.NumberOperations\\04.NumberOperations.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\04.numberoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6BAF0-476D-40AB-9C4A-F9D4E714B193}|04.NumberOperations\\04.NumberOperations.csproj|solutionrelative:04.numberoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7124235-25E6-42FE-B4C7-9F8D01B932C4}|03.BiggestofFiveNumbers\\03.BiggestofFiveNumbers.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\03.biggestoffivenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7124235-25E6-42FE-B4C7-9F8D01B932C4}|03.BiggestofFiveNumbers\\03.BiggestofFiveNumbers.csproj|solutionrelative:03.biggestoffivenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35980CF-86CA-4F02-9092-8F9D78689116}|02.ATM\\02.ATM.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\02.atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35980CF-86CA-4F02-9092-8F9D78689116}|02.ATM\\02.ATM.csproj|solutionrelative:02.atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9712288-D2D5-40EA-9DEA-1119AA6FC18E}|10.SummerOutfit\\10.SummerOutfit.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\10.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9712288-D2D5-40EA-9DEA-1119AA6FC18E}|10.SummerOutfit\\10.SummerOutfit.csproj|solutionrelative:10.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69138EC-EA3B-40AD-883B-A2FF9996B200}|09.SumSeconds\\09.SumSeconds.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\09.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69138EC-EA3B-40AD-883B-A2FF9996B200}|09.SumSeconds\\09.SumSeconds.csproj|solutionrelative:09.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD2289E-2427-4AA6-9062-352DFF1AD8C7}|08.FruitorVegetable\\08.FruitorVegetable.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\08.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD2289E-2427-4AA6-9062-352DFF1AD8C7}|08.FruitorVegetable\\08.FruitorVegetable.csproj|solutionrelative:08.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6181836D-DC01-4148-A05B-0A8940E2D585}|07.WorkingHours\\07.WorkingHours.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\07.workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6181836D-DC01-4148-A05B-0A8940E2D585}|07.WorkingHours\\07.WorkingHours.csproj|solutionrelative:07.workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62813A5A-FD7D-472A-A1BF-82ED35BFCFE4}|06.ProductofThreeNumbers\\06.ProductofThreeNumbers.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\06.productofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62813A5A-FD7D-472A-A1BF-82ED35BFCFE4}|06.ProductofThreeNumbers\\06.ProductofThreeNumbers.csproj|solutionrelative:06.productofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F779EE6-474E-4F51-B43A-DD09F293C099}|01.NumberType\\01.NumberType.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-conditional statements\\programing qa\\exercise-conditionalstatements\\01.numbertype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F779EE6-474E-4F51-B43A-DD09F293C099}|01.NumberType\\01.NumberType.csproj|solutionrelative:01.numbertype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Complex Conditional Statements\\Programing QA\\Complex Conditional Statements\\02.LargestNumberOutofThree\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\09.SumSeconds\\Program.cs",
+              "RelativeDocumentMoniker": "09.SumSeconds\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\09.SumSeconds\\Program.cs",
+              "RelativeToolTip": "09.SumSeconds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:53:03.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\10.SummerOutfit\\Program.cs",
+              "RelativeDocumentMoniker": "10.SummerOutfit\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\10.SummerOutfit\\Program.cs",
+              "RelativeToolTip": "10.SummerOutfit\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:04:53.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\05.VacationExpenses\\Program.cs",
+              "RelativeDocumentMoniker": "05.VacationExpenses\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\05.VacationExpenses\\Program.cs",
+              "RelativeToolTip": "05.VacationExpenses\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:39:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\08.FruitorVegetable\\Program.cs",
+              "RelativeDocumentMoniker": "08.FruitorVegetable\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\08.FruitorVegetable\\Program.cs",
+              "RelativeToolTip": "08.FruitorVegetable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:26:36.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\07.WorkingHours\\Program.cs",
+              "RelativeDocumentMoniker": "07.WorkingHours\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\07.WorkingHours\\Program.cs",
+              "RelativeToolTip": "07.WorkingHours\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:11:16.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\06.ProductofThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "06.ProductofThreeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\06.ProductofThreeNumbers\\Program.cs",
+              "RelativeToolTip": "06.ProductofThreeNumbers\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:57:41.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\04.NumberOperations\\Program.cs",
+              "RelativeDocumentMoniker": "04.NumberOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\04.NumberOperations\\Program.cs",
+              "RelativeToolTip": "04.NumberOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:20:11.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\03.BiggestofFiveNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.BiggestofFiveNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\03.BiggestofFiveNumbers\\Program.cs",
+              "RelativeToolTip": "03.BiggestofFiveNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:01:11.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\02.ATM\\Program.cs",
+              "RelativeDocumentMoniker": "02.ATM\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\02.ATM\\Program.cs",
+              "RelativeToolTip": "02.ATM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:42:36.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\01.NumberType\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumberType\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Conditional Statements\\Programing QA\\Exercise-ConditionalStatements\\01.NumberType\\Program.cs",
+              "RelativeToolTip": "01.NumberType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:29:38.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Complex Conditional Statements\\Programing QA\\Complex Conditional Statements\\02.LargestNumberOutofThree\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Complex Conditional Statements\\Programing QA\\Complex Conditional Statements\\02.LargestNumberOutofThree\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Complex Conditional Statements\\Programing QA\\Complex Conditional Statements\\02.LargestNumberOutofThree\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Complex Conditional Statements\\Programing QA\\Complex Conditional Statements\\02.LargestNumberOutofThree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:29:17.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

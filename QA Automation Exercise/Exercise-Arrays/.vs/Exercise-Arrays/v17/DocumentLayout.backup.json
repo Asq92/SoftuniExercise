@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1D481-0638-4996-975C-B6605715D947}|07\\07..csproj|c:\\users\\lenovo\\desktop\\programing qa\\exercise-arrays\\07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1D481-0638-4996-975C-B6605715D947}|07\\07..csproj|solutionrelative:07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F86A0C9-D63D-4E0C-AA3D-19B065ED7EC5}|06\\06..csproj|c:\\users\\lenovo\\desktop\\programing qa\\exercise-arrays\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F86A0C9-D63D-4E0C-AA3D-19B065ED7EC5}|06\\06..csproj|solutionrelative:06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75263A84-B986-4273-8214-1ABA2CBA0679}|05\\05..csproj|c:\\users\\lenovo\\desktop\\programing qa\\exercise-arrays\\05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75263A84-B986-4273-8214-1ABA2CBA0679}|05\\05..csproj|solutionrelative:05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE4FF72-8568-4C44-ACB6-3DA23293BBB1}|04\\04..csproj|c:\\users\\lenovo\\desktop\\programing qa\\exercise-arrays\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE4FF72-8568-4C44-ACB6-3DA23293BBB1}|04\\04..csproj|solutionrelative:04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A2CCFC-9CBD-4594-92A0-080BC50F239C}|03\\03..csproj|c:\\users\\lenovo\\desktop\\programing qa\\exercise-arrays\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A2CCFC-9CBD-4594-92A0-080BC50F239C}|03\\03..csproj|solutionrelative:03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001DDCE1-FBF8-4434-A30F-5E22DA1180BC}|02\\02..csproj|c:\\users\\lenovo\\desktop\\programing qa\\exercise-arrays\\02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001DDCE1-FBF8-4434-A30F-5E22DA1180BC}|02\\02..csproj|solutionrelative:02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD29139-4963-48FC-B0C1-B5E86964548F}|01\\01..csproj|c:\\users\\lenovo\\desktop\\programing qa\\exercise-arrays\\01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD29139-4963-48FC-B0C1-B5E86964548F}|01\\01..csproj|solutionrelative:01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\07\\Program.cs",
+              "RelativeDocumentMoniker": "07\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\07\\Program.cs",
+              "RelativeToolTip": "07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:56:21.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\06\\Program.cs",
+              "RelativeDocumentMoniker": "06\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\06\\Program.cs",
+              "RelativeToolTip": "06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:46:48.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\05\\Program.cs",
+              "RelativeDocumentMoniker": "05\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\05\\Program.cs",
+              "RelativeToolTip": "05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:31:48.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\04\\Program.cs",
+              "RelativeDocumentMoniker": "04\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\04\\Program.cs",
+              "RelativeToolTip": "04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:20:35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\03\\Program.cs",
+              "RelativeDocumentMoniker": "03\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\03\\Program.cs",
+              "RelativeToolTip": "03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:06:45.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\02\\Program.cs",
+              "RelativeDocumentMoniker": "02\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\02\\Program.cs",
+              "RelativeToolTip": "02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:47:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\01\\Program.cs",
+              "RelativeDocumentMoniker": "01\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\Exercise-Arrays\\01\\Program.cs",
+              "RelativeToolTip": "01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:21:47.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

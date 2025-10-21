@@ -1,0 +1,293 @@
+{
+	"info": {
+		"_postman_id": "68007bb9-d717-470b-b708-5a030c9f7ddc",
+		"name": "FoodyApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9526468",
+		"_collection_link": "https://coolguys-8041.postman.co/workspace/FundamentalsDemoWS~76f62c13-6086-4cd8-8565-2e12cba3f2df/collection/9526468-68007bb9-d717-470b-b708-5a030c9f7ddc?action=share&source=collection_link&creator=9526468"
+	},
+	"item": [
+		{
+			"name": "GetAllMethods",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:86/api/Info/Methods",
+					"protocol": "http",
+					"host": [
+						"softuni-qa-loadbalancer-2137572849",
+						"eu-north-1",
+						"elb",
+						"amazonaws",
+						"com"
+					],
+					"port": "86",
+					"path": [
+						"api",
+						"Info",
+						"Methods"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateNewUser",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \r\n    \"userName\": \"username123__\",\r\n    \"firstName\": \"username123__\",\r\n    \"midName\": \"username123__\",\r\n    \"lastName\": \"username123__\",\r\n    \"email\": \"username123__@example.com\",\r\n    \"password\": \"string\",\r\n    \"rePassword\": \"string\" \r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:86/api/User/Create",
+					"protocol": "http",
+					"host": [
+						"softuni-qa-loadbalancer-2137572849",
+						"eu-north-1",
+						"elb",
+						"amazonaws",
+						"com"
+					],
+					"port": "86",
+					"path": [
+						"api",
+						"User",
+						"Create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AuthenticateUser",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userName\": \"username123__\",\r\n    \"password\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:86/api/User/Authentication",
+					"protocol": "http",
+					"host": [
+						"softuni-qa-loadbalancer-2137572849",
+						"eu-north-1",
+						"elb",
+						"amazonaws",
+						"com"
+					],
+					"port": "86",
+					"path": [
+						"api",
+						"User",
+						"Authentication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateFood",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNjIxYTYzNS1kMzQxLTRlNmEtYWMyMy01Y2I2MGQ2YTRmZjQiLCJpYXQiOiIwOC8xMS8yMDI1IDE4OjA4OjQwIiwiVXNlcklkIjoiN2NkZDMyYzEtZTIxOC00ZmM5LTlhOTMtMDhkZGQ4ZTVkYWIyIiwiRW1haWwiOiJ1c2VybmFtZTEyM19fQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJ1c2VybmFtZTEyM19fIiwiZXhwIjoxNzU0OTU3MzIwLCJpc3MiOiJGb29keV9BcHBfU29mdFVuaSIsImF1ZCI6IkZvb2R5X1dlYkFQSV9Tb2Z0VW5pIn0.Eb4Mp2N7cUrLbbNGo9xkMVWwqr2v6gdRR3e3irbJlBg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"name\":\"foodFromPostman\", \"description\":\"foodFromPostman\", \"url\": \"\" } ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:86/api/Food/Create",
+					"protocol": "http",
+					"host": [
+						"softuni-qa-loadbalancer-2137572849",
+						"eu-north-1",
+						"elb",
+						"amazonaws",
+						"com"
+					],
+					"port": "86",
+					"path": [
+						"api",
+						"Food",
+						"Create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SearchFood",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNjIxYTYzNS1kMzQxLTRlNmEtYWMyMy01Y2I2MGQ2YTRmZjQiLCJpYXQiOiIwOC8xMS8yMDI1IDE4OjA4OjQwIiwiVXNlcklkIjoiN2NkZDMyYzEtZTIxOC00ZmM5LTlhOTMtMDhkZGQ4ZTVkYWIyIiwiRW1haWwiOiJ1c2VybmFtZTEyM19fQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJ1c2VybmFtZTEyM19fIiwiZXhwIjoxNzU0OTU3MzIwLCJpc3MiOiJGb29keV9BcHBfU29mdFVuaSIsImF1ZCI6IkZvb2R5X1dlYkFQSV9Tb2Z0VW5pIn0.Eb4Mp2N7cUrLbbNGo9xkMVWwqr2v6gdRR3e3irbJlBg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:86/api/Food/Search?keyword=edited",
+					"protocol": "http",
+					"host": [
+						"softuni-qa-loadbalancer-2137572849",
+						"eu-north-1",
+						"elb",
+						"amazonaws",
+						"com"
+					],
+					"port": "86",
+					"path": [
+						"api",
+						"Food",
+						"Search"
+					],
+					"query": [
+						{
+							"key": "keyword",
+							"value": "edited"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "EditFood",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNjIxYTYzNS1kMzQxLTRlNmEtYWMyMy01Y2I2MGQ2YTRmZjQiLCJpYXQiOiIwOC8xMS8yMDI1IDE4OjA4OjQwIiwiVXNlcklkIjoiN2NkZDMyYzEtZTIxOC00ZmM5LTlhOTMtMDhkZGQ4ZTVkYWIyIiwiRW1haWwiOiJ1c2VybmFtZTEyM19fQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJ1c2VybmFtZTEyM19fIiwiZXhwIjoxNzU0OTU3MzIwLCJpc3MiOiJGb29keV9BcHBfU29mdFVuaSIsImF1ZCI6IkZvb2R5X1dlYkFQSV9Tb2Z0VW5pIn0.Eb4Mp2N7cUrLbbNGo9xkMVWwqr2v6gdRR3e3irbJlBg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[{ \"path\": \"/name\", \"op\": \"replace\", \"value\": \"edited\"}]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:86/api/Food/Edit/44e18ce0-493b-4d0c-f8d7-08ddd8aa16d3",
+					"protocol": "http",
+					"host": [
+						"softuni-qa-loadbalancer-2137572849",
+						"eu-north-1",
+						"elb",
+						"amazonaws",
+						"com"
+					],
+					"port": "86",
+					"path": [
+						"api",
+						"Food",
+						"Edit",
+						"44e18ce0-493b-4d0c-f8d7-08ddd8aa16d3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteFood",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNjIxYTYzNS1kMzQxLTRlNmEtYWMyMy01Y2I2MGQ2YTRmZjQiLCJpYXQiOiIwOC8xMS8yMDI1IDE4OjA4OjQwIiwiVXNlcklkIjoiN2NkZDMyYzEtZTIxOC00ZmM5LTlhOTMtMDhkZGQ4ZTVkYWIyIiwiRW1haWwiOiJ1c2VybmFtZTEyM19fQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJ1c2VybmFtZTEyM19fIiwiZXhwIjoxNzU0OTU3MzIwLCJpc3MiOiJGb29keV9BcHBfU29mdFVuaSIsImF1ZCI6IkZvb2R5X1dlYkFQSV9Tb2Z0VW5pIn0.Eb4Mp2N7cUrLbbNGo9xkMVWwqr2v6gdRR3e3irbJlBg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:86/api/Food/Delete/44e18ce0-493b-4d0c-f8d7-08ddd8aa16d3",
+					"protocol": "http",
+					"host": [
+						"softuni-qa-loadbalancer-2137572849",
+						"eu-north-1",
+						"elb",
+						"amazonaws",
+						"com"
+					],
+					"port": "86",
+					"path": [
+						"api",
+						"Food",
+						"Delete",
+						"44e18ce0-493b-4d0c-f8d7-08ddd8aa16d3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

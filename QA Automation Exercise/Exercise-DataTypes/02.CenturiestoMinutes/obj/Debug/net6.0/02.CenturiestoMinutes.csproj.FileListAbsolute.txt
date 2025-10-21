@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\02.CenturiestoMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\02.CenturiestoMinutes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\02.CenturiestoMinutes.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\02.CenturiestoMinutes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\bin\Debug\net6.0\02.CenturiestoMinutes.exe
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\bin\Debug\net6.0\02.CenturiestoMinutes.deps.json
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\bin\Debug\net6.0\02.CenturiestoMinutes.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\bin\Debug\net6.0\02.CenturiestoMinutes.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\bin\Debug\net6.0\02.CenturiestoMinutes.pdb
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\02.CenturiestoMinutes.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\refint\02.CenturiestoMinutes.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\02.CenturiestoMinutes.pdb
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\02.CenturiestoMinutes.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-DataTypes,VariablesandKeyConcepts\02.CenturiestoMinutes\obj\Debug\net6.0\ref\02.CenturiestoMinutes.dll

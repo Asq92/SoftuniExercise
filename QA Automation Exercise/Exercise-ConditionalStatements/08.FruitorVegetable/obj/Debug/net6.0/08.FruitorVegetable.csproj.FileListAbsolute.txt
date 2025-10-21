@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\bin\Debug\net6.0\08.FruitorVegetable.exe
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\bin\Debug\net6.0\08.FruitorVegetable.deps.json
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\bin\Debug\net6.0\08.FruitorVegetable.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\bin\Debug\net6.0\08.FruitorVegetable.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\bin\Debug\net6.0\08.FruitorVegetable.pdb
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\08.FruitorVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\08.FruitorVegetable.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\08.FruitorVegetable.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\08.FruitorVegetable.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\08.FruitorVegetable.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\refint\08.FruitorVegetable.dll
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\08.FruitorVegetable.pdb
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\08.FruitorVegetable.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Programing QA\Exercise-ConditionalStatements\08.FruitorVegetable\obj\Debug\net6.0\ref\08.FruitorVegetable.dll

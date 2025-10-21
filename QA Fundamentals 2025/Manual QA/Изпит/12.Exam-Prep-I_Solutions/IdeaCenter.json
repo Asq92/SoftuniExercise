@@ -1,0 +1,272 @@
+{
+    "info": {
+        "_postman_id": "eb614951-daad-4035-90b1-e88ee7fc9788",
+        "name": "Idea Center",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "_exporter_id": "14255838"
+    },
+    "item": [{
+            "name": "Methods",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84/api/Info/Methods",
+                    "protocol": "http",
+                    "host": [
+                        "softuni-qa-loadbalancer-2137572849",
+                        "eu-north-1",
+                        "elb",
+                        "amazonaws",
+                        "com"
+                    ],
+                    "port": "84",
+                    "path": [
+                        "api",
+                        "Info",
+                        "Methods"
+                    ]
+                }
+            },
+            "response": []
+        }, {
+            "name": "Create User",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\"userName\": \"string\", \r\n\"email\": \"user@example.com\", \r\n\"password\": \"string\", \r\n\"rePassword\": \"string\", \r\n\"acceptedAgreement\": true} ",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                "url": {
+                    "raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84/api/User/Create",
+                    "protocol": "http",
+                    "host": [
+                        "softuni-qa-loadbalancer-2137572849",
+                        "eu-north-1",
+                        "elb",
+                        "amazonaws",
+                        "com"
+                    ],
+                    "port": "84",
+                    "path": [
+                        "api",
+                        "User",
+                        "Create"
+                    ]
+                }
+            },
+            "response": []
+        }, {
+            "name": "Log In and get Token",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\r\n   \r\n    \"email\": \"user@example.com\",\r\n    \"password\": \"string\"\r\n    \r\n}\r\n  ",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                "url": {
+                    "raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84/api/User/Authentication",
+                    "protocol": "http",
+                    "host": [
+                        "softuni-qa-loadbalancer-2137572849",
+                        "eu-north-1",
+                        "elb",
+                        "amazonaws",
+                        "com"
+                    ],
+                    "port": "84",
+                    "path": [
+                        "api",
+                        "User",
+                        "Authentication"
+                    ]
+                }
+            },
+            "response": []
+        }, {
+            "name": "Create New Idea",
+            "request": {
+                "auth": {
+                    "type": "bearer",
+                    "bearer": [{
+                            "key": "token",
+                            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNjdhMGM4My01ZTY3LTQ1NzctODNhYy1hNjQzZTk5NzQ4ZGIiLCJpYXQiOiIwOC8wMi8yMDIzIDA0OjQ2OjI2IiwiVXNlcklkIjoiM2IwOWE0ZGItNzMxNS00OGMzLTVlM2QtMDhkYjkzMTMwMjM2IiwiRW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJzdHJpbmciLCJleHAiOjE2OTA5NzMxODYsImlzcyI6IklkZWFDZW50ZXJfQXBwX1NvZnRVbmkiLCJhdWQiOiJJZGVhQ2VudGVyX1dlYkFQSV9Tb2Z0VW5pIn0.2vYPk1nNHw1HVdmLramHvs_5jXUreHVPKLDtHhRpZ0U",
+                            "type": "string"
+                        }
+                    ]
+                },
+                "method": "POST",
+                "header": [],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\r\n  \"title\": \"GREAT IDEA 01\",\r\n  \"url\": \"\",\r\n  \"description\": \"GREAT IDEA 01 Description\"\r\n}",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                "url": {
+                    "raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84/api/Idea/Create",
+                    "protocol": "http",
+                    "host": [
+                        "softuni-qa-loadbalancer-2137572849",
+                        "eu-north-1",
+                        "elb",
+                        "amazonaws",
+                        "com"
+                    ],
+                    "port": "84",
+                    "path": [
+                        "api",
+                        "Idea",
+                        "Create"
+                    ]
+                }
+            },
+            "response": []
+        }, {
+            "name": "Get All Ideas",
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "request": {
+                "auth": {
+                    "type": "bearer",
+                    "bearer": [{
+                            "key": "token",
+                            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNjdhMGM4My01ZTY3LTQ1NzctODNhYy1hNjQzZTk5NzQ4ZGIiLCJpYXQiOiIwOC8wMi8yMDIzIDA0OjQ2OjI2IiwiVXNlcklkIjoiM2IwOWE0ZGItNzMxNS00OGMzLTVlM2QtMDhkYjkzMTMwMjM2IiwiRW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJzdHJpbmciLCJleHAiOjE2OTA5NzMxODYsImlzcyI6IklkZWFDZW50ZXJfQXBwX1NvZnRVbmkiLCJhdWQiOiJJZGVhQ2VudGVyX1dlYkFQSV9Tb2Z0VW5pIn0.2vYPk1nNHw1HVdmLramHvs_5jXUreHVPKLDtHhRpZ0U",
+                            "type": "string"
+                        }
+                    ]
+                },
+                "method": "GET",
+                "header": [],
+                "body": {
+                    "mode": "raw",
+                    "raw": "",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                "url": {
+                    "raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84/api/Idea/All",
+                    "protocol": "http",
+                    "host": [
+                        "softuni-qa-loadbalancer-2137572849",
+                        "eu-north-1",
+                        "elb",
+                        "amazonaws",
+                        "com"
+                    ],
+                    "port": "84",
+                    "path": [
+                        "api",
+                        "Idea",
+                        "All"
+                    ]
+                }
+            },
+            "response": []
+        }, {
+            "name": "Change Idea",
+            "request": {
+                "auth": {
+                    "type": "bearer",
+                    "bearer": [{
+                            "key": "token",
+                            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNjdhMGM4My01ZTY3LTQ1NzctODNhYy1hNjQzZTk5NzQ4ZGIiLCJpYXQiOiIwOC8wMi8yMDIzIDA0OjQ2OjI2IiwiVXNlcklkIjoiM2IwOWE0ZGItNzMxNS00OGMzLTVlM2QtMDhkYjkzMTMwMjM2IiwiRW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJzdHJpbmciLCJleHAiOjE2OTA5NzMxODYsImlzcyI6IklkZWFDZW50ZXJfQXBwX1NvZnRVbmkiLCJhdWQiOiJJZGVhQ2VudGVyX1dlYkFQSV9Tb2Z0VW5pIn0.2vYPk1nNHw1HVdmLramHvs_5jXUreHVPKLDtHhRpZ0U",
+                            "type": "string"
+                        }
+                    ]
+                },
+                "method": "PUT",
+                "header": [],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\r\n  \"title\": \"CHANGE GREAT IDEA 01\",\r\n  \"url\": \"\",\r\n  \"description\": \"CHANGED IDEA DESCRIPTION\"\r\n}",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                "url": {
+                    "raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84/api/Idea/Edit?ideaId=2daf7b0e-9a63-4e6e-eef4-08db92c27c0d",
+                    "protocol": "http",
+                    "host": [
+                        "softuni-qa-loadbalancer-2137572849",
+                        "eu-north-1",
+                        "elb",
+                        "amazonaws",
+                        "com"
+                    ],
+                    "port": "84",
+                    "path": [
+                        "api",
+                        "Idea",
+                        "Edit"
+                    ],
+                    "query": [{
+                            "key": "ideaId",
+                            "value": "2daf7b0e-9a63-4e6e-eef4-08db92c27c0d"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        }, {
+            "name": "Delete Idea",
+            "request": {
+                "auth": {
+                    "type": "bearer",
+                    "bearer": [{
+                            "key": "token",
+                            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNjdhMGM4My01ZTY3LTQ1NzctODNhYy1hNjQzZTk5NzQ4ZGIiLCJpYXQiOiIwOC8wMi8yMDIzIDA0OjQ2OjI2IiwiVXNlcklkIjoiM2IwOWE0ZGItNzMxNS00OGMzLTVlM2QtMDhkYjkzMTMwMjM2IiwiRW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJzdHJpbmciLCJleHAiOjE2OTA5NzMxODYsImlzcyI6IklkZWFDZW50ZXJfQXBwX1NvZnRVbmkiLCJhdWQiOiJJZGVhQ2VudGVyX1dlYkFQSV9Tb2Z0VW5pIn0.2vYPk1nNHw1HVdmLramHvs_5jXUreHVPKLDtHhRpZ0U",
+                            "type": "string"
+                        }
+                    ]
+                },
+                "method": "DELETE",
+                "header": [],
+                "url": {
+                    "raw": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84/api/Idea/Delete?ideaId=2daf7b0e-9a63-4e6e-eef4-08db92c27c0d",
+                    "protocol": "http",
+                    "host": [
+                        "softuni-qa-loadbalancer-2137572849",
+                        "eu-north-1",
+                        "elb",
+                        "amazonaws",
+                        "com"
+                    ],
+                    "port": "84",
+                    "path": [
+                        "api",
+                        "Idea",
+                        "Delete"
+                    ],
+                    "query": [{
+                            "key": "ideaId",
+                            "value": "2daf7b0e-9a63-4e6e-eef4-08db92c27c0d"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        }
+    ]
+}

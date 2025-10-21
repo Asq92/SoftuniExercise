@@ -1,0 +1,214 @@
+{
+	"info": {
+		"_postman_id": "c95996ce-5967-4d2d-b83a-86636743b7b6",
+		"name": "QA Exam 1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44049896",
+		"_collection_link": "https://www.postman.com/aa-9812806/qa-exam/collection/xf4qvvt/qa-exam-1?action=share&source=collection_link&creator=44049896"
+	},
+	"item": [
+		{
+			"name": "User Loggin",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"user@example.com\",\r\n    \"password\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/User/Authentication",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"User",
+						"Authentication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Idea",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIwZWU1NmUzZC1hYTY5LTQwYmItYWJmYy01M2RmZDQ2MzkwNWUiLCJpYXQiOiIwNi8yMi8yMDI1IDE0OjAzOjU5IiwiVXNlcklkIjoiNjVkOTc5OGQtZDE4Ny00NWM3LTY3ODgtMDhkYzRmZjE2NmRlIiwiRW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJzdHJpbmciLCJleHAiOjE3NTA2MjI2MzksImlzcyI6IklkZWFDZW50ZXJfQXBwX1NvZnRVbmkiLCJhdWQiOiJJZGVhQ2VudGVyX1dlYkFQSV9Tb2Z0VW5pIn0.oEiNjIqOnR3ZajqkMXgmRQx7l6Nl4wt0QtrCZe07zNM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Hello\",\r\n    \"description\": \"Beautiful\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/Idea/Create",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Idea",
+						"Create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List Idea",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIwZWU1NmUzZC1hYTY5LTQwYmItYWJmYy01M2RmZDQ2MzkwNWUiLCJpYXQiOiIwNi8yMi8yMDI1IDE0OjAzOjU5IiwiVXNlcklkIjoiNjVkOTc5OGQtZDE4Ny00NWM3LTY3ODgtMDhkYzRmZjE2NmRlIiwiRW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJzdHJpbmciLCJleHAiOjE3NTA2MjI2MzksImlzcyI6IklkZWFDZW50ZXJfQXBwX1NvZnRVbmkiLCJhdWQiOiJJZGVhQ2VudGVyX1dlYkFQSV9Tb2Z0VW5pIn0.oEiNjIqOnR3ZajqkMXgmRQx7l6Nl4wt0QtrCZe07zNM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{endpoint}}/api/Idea/All",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Idea",
+						"All"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{vault:authorization-secret}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"My Love\",\r\n    \"url\": \"\",\r\n    \"description\": \"Hello\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/Idea/Edit?ideaId=3e632495-28f2-42c1-2214-08dc5a3f474d",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Idea",
+						"Edit"
+					],
+					"query": [
+						{
+							"key": "ideaId",
+							"value": "3e632495-28f2-42c1-2214-08dc5a3f474d"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Deleye Idea",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIwZWU1NmUzZC1hYTY5LTQwYmItYWJmYy01M2RmZDQ2MzkwNWUiLCJpYXQiOiIwNi8yMi8yMDI1IDE0OjAzOjU5IiwiVXNlcklkIjoiNjVkOTc5OGQtZDE4Ny00NWM3LTY3ODgtMDhkYzRmZjE2NmRlIiwiRW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJzdHJpbmciLCJleHAiOjE3NTA2MjI2MzksImlzcyI6IklkZWFDZW50ZXJfQXBwX1NvZnRVbmkiLCJhdWQiOiJJZGVhQ2VudGVyX1dlYkFQSV9Tb2Z0VW5pIn0.oEiNjIqOnR3ZajqkMXgmRQx7l6Nl4wt0QtrCZe07zNM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{endpoint}}/api/Idea/Delete?ideaId=3e632495-28f2-42c1-2214-08dc5a3f474d",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Idea",
+						"Delete"
+					],
+					"query": [
+						{
+							"key": "ideaId",
+							"value": "3e632495-28f2-42c1-2214-08dc5a3f474d"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "endpoint",
+			"value": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84",
+			"type": "string"
+		}
+	]
+}

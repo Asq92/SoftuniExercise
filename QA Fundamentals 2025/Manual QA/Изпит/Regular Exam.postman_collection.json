@@ -1,0 +1,199 @@
+{
+	"info": {
+		"_postman_id": "ba3c9efb-4ff1-431c-bdf8-9d745db4001f",
+		"name": "Regular Exam",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44049896",
+		"_collection_link": "https://aa-9812806.postman.co/workspace/Regular-Exam~cb472082-8f1d-4d83-a9d4-aaffaae4ae2b/collection/44049896-ba3c9efb-4ff1-431c-bdf8-9d745db4001f?action=share&source=collection_link&creator=44049896"
+	},
+	"item": [
+		{
+			"name": "Login User",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"userName\": \"string123\", \"password\": \"string\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/User/Authentication",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"User",
+						"Authentication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"title\": \"Game of Thrones\", \"description\": \"All the spoilers. No surprises.\", \"url\": \"\" } ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/Story/Create",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Story",
+						"Create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List All Spoilers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{endpoint}}/api/Story/All",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Story",
+						"All"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"title\": \"Harry Potter and the Deathly Hallows\", \"description\": \"Magic is beautiful\", \"url\": \"\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/Story/Edit/7b09b967-c132-49d2-e3de-08ddbb8bb882",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Story",
+						"Edit",
+						"7b09b967-c132-49d2-e3de-08ddbb8bb882"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search Spoiler",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{endpoint}}/api/Story/Search?keyword=Harry",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Story",
+						"Search"
+					],
+					"query": [
+						{
+							"key": "keyword",
+							"value": "Harry"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Spoiler",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{endpoint}}/api/Story/Delete/7b09b967-c132-49d2-e3de-08ddbb8bb882",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Story",
+						"Delete",
+						"7b09b967-c132-49d2-e3de-08ddbb8bb882"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiJhNTFkZjI3NS0zODk3LTRjMzAtYTZjZS1lOGE1NmQ1ZmU2NDUiLCJpYXQiOiIwOC8xNy8yMDI1IDA2OjA4OjAxIiwiVXNlcklkIjoiODBiY2JkMDktODQyZC00ZGNhLWExNmItMDhkZGJiODk4Njg2IiwiRW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwiVXNlck5hbWUiOiJzdHJpbmciLCJleHAiOjE3NTU0MzI0ODEsImlzcyI6IlN0b3J5U3BvaWxfQXBwX1NvZnRVbmkiLCJhdWQiOiJTdG9yeVNwb2lsX1dlYkFQSV9Tb2Z0VW5pIn0.DAZeMGNsvEoySJv77nQ2uBXTv22z1t3b_ZFObYXccJ8",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "endpoint",
+			"value": "https://d3s5nxhwblsjbi.cloudfront.net",
+			"type": "string"
+		}
+	]
+}
