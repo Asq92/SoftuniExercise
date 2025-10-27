@@ -9,3 +9,15 @@ C:\Users\LENOVO\Desktop\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestA
 C:\Users\LENOVO\Desktop\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\refint\TestApp.dll
 C:\Users\LENOVO\Desktop\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestApp.pdb
 C:\Users\LENOVO\Desktop\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\ref\TestApp.dll
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\bin\Debug\net8.0\TestApp.deps.json
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\bin\Debug\net8.0\TestApp.dll
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\bin\Debug\net8.0\TestApp.pdb
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestApp.sourcelink.json
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestApp.dll
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\refint\TestApp.dll
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\TestApp.pdb
+C:\Users\LENOVO\Desktop\Git\SoftuniExercise2025\QA Automation Exercise\Exercise-Unit Testing Arrays\ExerciseArrays\UnitArrays\TestApp\obj\Debug\net8.0\ref\TestApp.dll

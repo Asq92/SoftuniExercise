@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\exercisearrays\\unitarrays\\testapp.unittests\\topintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing arrays\\exercisearrays\\unitarrays\\testapp.unittests\\duplicatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\duplicatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing arrays\\exercisearrays\\unitarrays\\testapp.unittests\\topintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\topintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\exercisearrays\\unitarrays\\testapp.unittests\\repeatingchecker_lastreapeatingelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing arrays\\exercisearrays\\unitarrays\\testapp.unittests\\repeatingchecker_lastreapeatingelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\repeatingchecker_lastreapeatingelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\exercisearrays\\unitarrays\\testapp.unittests\\repeatingchecker_firstreapeatingelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing arrays\\exercisearrays\\unitarrays\\testapp.unittests\\repeatingchecker_firstreapeatingelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\repeatingchecker_firstreapeatingelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\exercisearrays\\unitarrays\\testapp.unittests\\reversertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing arrays\\exercisearrays\\unitarrays\\testapp.unittests\\reversertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\reversertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\exercisearrays\\unitarrays\\testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing arrays\\exercisearrays\\unitarrays\\testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\exercisearrays\\unitarrays\\testapp.unittests\\majoritytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing arrays\\exercisearrays\\unitarrays\\testapp.unittests\\majoritytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\majoritytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\exercisearrays\\unitarrays\\testapp.unittests\\faketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing arrays\\exercisearrays\\unitarrays\\testapp.unittests\\faketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\faketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\exercisearrays\\unitarrays\\testapp.unittests\\duplicatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\duplicatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +42,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RepeatingChecker_LastReapeatingElementTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
-              "RelativeDocumentMoniker": "TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
-              "RelativeToolTip": "TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:24:44.628Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "RepeatingChecker_LastReapeatingElementTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:24:44.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TopIntegersTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\TopIntegersTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\TopIntegersTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\TopIntegersTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\TopIntegersTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\TopIntegersTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\TopIntegersTests.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAYwEYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,85 +75,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RepeatingChecker_FirstReapeatingElementTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\RepeatingChecker_FirstReapeatingElementTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\RepeatingChecker_FirstReapeatingElementTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\RepeatingChecker_FirstReapeatingElementTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\RepeatingChecker_FirstReapeatingElementTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\RepeatingChecker_FirstReapeatingElementTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\RepeatingChecker_FirstReapeatingElementTests.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAkwAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:15:00.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PatternTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\PatternTests.cs",
-              "RelativeDocumentMoniker": "TestApp.UnitTests\\PatternTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\PatternTests.cs",
-              "RelativeToolTip": "TestApp.UnitTests\\PatternTests.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:11:28.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T19:15:00.222Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MajorityTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\MajorityTests.cs",
-              "RelativeDocumentMoniker": "TestApp.UnitTests\\MajorityTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\MajorityTests.cs",
-              "RelativeToolTip": "TestApp.UnitTests\\MajorityTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Title": "PatternTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\PatternTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PatternTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\PatternTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PatternTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:08:40.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T19:11:28.635Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FakeTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\FakeTests.cs",
-              "RelativeDocumentMoniker": "TestApp.UnitTests\\FakeTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\FakeTests.cs",
-              "RelativeToolTip": "TestApp.UnitTests\\FakeTests.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAUAAAAAAAAAA==",
+              "Title": "MajorityTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\MajorityTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MajorityTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\MajorityTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MajorityTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:05:54.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T19:08:40.038Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "FakeTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\FakeTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\FakeTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\FakeTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\FakeTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:05:54.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DuplicatesTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\DuplicatesTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\DuplicatesTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\DuplicatesTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\DuplicatesTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\DuplicatesTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\DuplicatesTests.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T19:02:40.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ReverserTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\ReverserTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\ReverserTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\ReverserTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\ReverserTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Arrays\\ExerciseArrays\\UnitArrays\\TestApp.UnitTests\\ReverserTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\ReverserTests.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAcwDUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T18:54:27.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-10-21T18:54:27.66Z"
             }
           ]
         }

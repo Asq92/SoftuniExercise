@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\bin\Debug\net8.0\TestApp.deps.json
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\bin\Debug\net8.0\TestApp.dll
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\bin\Debug\net8.0\TestApp.pdb
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\obj\Debug\net8.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\obj\Debug\net8.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\obj\Debug\net8.0\TestApp.dll
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\obj\Debug\net8.0\refint\TestApp.dll
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\obj\Debug\net8.0\TestApp.pdb
+C:\Users\LENOVO\Desktop\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp\obj\Debug\net8.0\ref\TestApp.dll

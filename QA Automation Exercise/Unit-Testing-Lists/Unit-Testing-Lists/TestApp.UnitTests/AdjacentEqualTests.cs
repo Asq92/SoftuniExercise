@@ -55,8 +55,8 @@ public class AdjacentEqualTests
     public void Test_Sum_AllNumbersAreAdjacentEqual_ShouldReturnSingleSummedNumber()
     {
         //Arrange
-        List<int> numbers = new List<int> { 3, 3, 3, 3 };
-        string expected = "12";
+        List<int> numbers = new List<int> { 2, 2, 2, 2 };
+        string expected = "8";
 
         //Act
         string result = AdjacentEqual.Sum(numbers);

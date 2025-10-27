@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/euq6cO5Nd8=",
+  "dgSpecHash": "Vt8/2IlhXIo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Unit-Testing-Lists\\Unit-Testing-Lists\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Unit-Testing-Lists\\Unit-Testing-Lists\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
