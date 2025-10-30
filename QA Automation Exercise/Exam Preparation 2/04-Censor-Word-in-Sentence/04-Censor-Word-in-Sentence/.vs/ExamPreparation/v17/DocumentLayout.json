@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\04-Censor-Word-in-Sentence-Resources\\04-Censor-Word-in-Sentence-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\04-censor-word-in-sentence-resources\\04-censor-word-in-sentence-resources\\testapp.tests\\textcensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\textcensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextCensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\04-Censor-Word-in-Sentence-Resources\\04-Censor-Word-in-Sentence-Resources\\TestApp.Tests\\TextCensorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\TextCensorTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\04-Censor-Word-in-Sentence-Resources\\04-Censor-Word-in-Sentence-Resources\\TestApp.Tests\\TextCensorTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\TextCensorTests.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwI4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:19:50.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

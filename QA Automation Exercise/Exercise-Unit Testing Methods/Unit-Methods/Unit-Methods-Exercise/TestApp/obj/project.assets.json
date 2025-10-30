@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Unit Testing Methods\\18-Unit-Testing-Methods-Exercise-Resources\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Methods\\Unit-Methods\\Unit-Methods-Exercise\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Unit Testing Methods\\18-Unit-Testing-Methods-Exercise-Resources\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp\\TestApp.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Methods\\Unit-Methods\\Unit-Methods-Exercise\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Unit Testing Methods\\18-Unit-Testing-Methods-Exercise-Resources\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Methods\\Unit-Methods\\Unit-Methods-Exercise\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

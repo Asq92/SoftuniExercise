@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exam Preparation 1\\04-Even-Numbers-Resources\\04-Even-Numbers-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exam preparation 1\\04-even-numbers-resources\\04-even-numbers-resources\\testapp.tests\\evennumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\evennumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvenNumbersTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exam Preparation 1\\04-Even-Numbers-Resources\\04-Even-Numbers-Resources\\TestApp.Tests\\EvenNumbersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\EvenNumbersTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exam Preparation 1\\04-Even-Numbers-Resources\\04-Even-Numbers-Resources\\TestApp.Tests\\EvenNumbersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\EvenNumbersTests.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:40:07.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

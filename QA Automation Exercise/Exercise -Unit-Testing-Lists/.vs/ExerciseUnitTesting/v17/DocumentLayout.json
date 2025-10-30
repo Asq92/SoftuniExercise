@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\22-unit-testing-lists-exercise-resources\\22-unit-testing-lists-exercise-resources\\testapp.unittests\\matrixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matrixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\22-unit-testing-lists-exercise-resources\\22-unit-testing-lists-exercise-resources\\testapp.unittests\\listremover_removelessthanorequaltotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise -unit-testing-lists\\testapp.unittests\\listremover_removelessthanorequaltotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\listremover_removelessthanorequaltotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\22-unit-testing-lists-exercise-resources\\22-unit-testing-lists-exercise-resources\\testapp.unittests\\listremover_removegreaterthantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\listremover_removegreaterthantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\22-unit-testing-lists-exercise-resources\\22-unit-testing-lists-exercise-resources\\testapp.unittests\\listsplittertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\listsplittertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\22-unit-testing-lists-exercise-resources\\22-unit-testing-lists-exercise-resources\\testapp.unittests\\samevaluestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise -unit-testing-lists\\testapp.unittests\\samevaluestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\samevaluestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\22-unit-testing-lists-exercise-resources\\22-unit-testing-lists-exercise-resources\\testapp.unittests\\palindrometests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise -unit-testing-lists\\testapp.unittests\\palindrometests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\palindrometests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\22-unit-testing-lists-exercise-resources\\22-unit-testing-lists-exercise-resources\\testapp.unittests\\numberprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise -unit-testing-lists\\testapp.unittests\\matrixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matrixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise -unit-testing-lists\\testapp.unittests\\listremover_removegreaterthantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\listremover_removegreaterthantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise -unit-testing-lists\\testapp.unittests\\listsplittertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\listsplittertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise -unit-testing-lists\\testapp.unittests\\numberprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\numberprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,15 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MatrixTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\MatrixTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\MatrixTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\MatrixTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\MatrixTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\MatrixTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\MatrixTests.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAgwC8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +59,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ListRemover_RemoveLessThanOrEqualToTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\ListRemover_RemoveLessThanOrEqualToTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\ListRemover_RemoveLessThanOrEqualToTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\ListRemover_RemoveLessThanOrEqualToTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\ListRemover_RemoveLessThanOrEqualToTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\ListRemover_RemoveLessThanOrEqualToTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\ListRemover_RemoveLessThanOrEqualToTests.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwEEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,52 +72,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ListSplitterTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\ListSplitterTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\ListSplitterTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\ListSplitterTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\ListSplitterTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\ListSplitterTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\ListSplitterTests.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAAwEoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T19:09:26.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListRemover_RemoveGreaterThanTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\ListRemover_RemoveGreaterThanTests.cs",
-              "RelativeDocumentMoniker": "TestApp.UnitTests\\ListRemover_RemoveGreaterThanTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\ListRemover_RemoveGreaterThanTests.cs",
-              "RelativeToolTip": "TestApp.UnitTests\\ListRemover_RemoveGreaterThanTests.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwCEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:33:32.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T19:09:26.286Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ListRemover_RemoveGreaterThanTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\ListRemover_RemoveGreaterThanTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ListRemover_RemoveGreaterThanTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\ListRemover_RemoveGreaterThanTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ListRemover_RemoveGreaterThanTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:33:32.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SameValuesTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\SameValuesTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\SameValuesTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\SameValuesTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\SameValuesTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\SameValuesTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\SameValuesTests.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEEAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAA3wEEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T18:22:49.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PalindromeTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\PalindromeTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\PalindromeTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\PalindromeTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\PalindromeTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\PalindromeTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\PalindromeTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T17:08:20.763Z",
               "EditorCaption": ""
@@ -122,18 +124,13 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "NumberProcessorTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\NumberProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\NumberProcessorTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\NumberProcessorTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\22-Unit-Testing-Lists-Exercise-Resources\\22-Unit-Testing-Lists-Exercise-Resources\\TestApp.UnitTests\\NumberProcessorTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise -Unit-Testing-Lists\\TestApp.UnitTests\\NumberProcessorTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\NumberProcessorTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T17:05:36.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-10-27T17:05:36.552Z"
             }
           ]
         }

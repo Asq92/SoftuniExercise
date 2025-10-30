@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Unit Testing Methods\\18-Unit-Testing-Methods-Exercise-Resources\\20-Unit-Testing-Methods-Exercise-Resources\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Methods\\Unit-Methods\\Unit-Methods-Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-unit testing methods\\18-unit-testing-methods-exercise-resources\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\primefactortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing methods\\unit-methods\\unit-methods-exercise\\testapp.unittests\\primefactortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\primefactortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing qa\\exercise-unit testing methods\\18-unit-testing-methods-exercise-resources\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\palindromeintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\git\\softuniexercise2025\\qa automation exercise\\exercise-unit testing methods\\unit-methods\\unit-methods-exercise\\testapp.unittests\\palindromeintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\palindromeintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,23 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PalindromeIntegersTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Unit Testing Methods\\18-Unit-Testing-Methods-Exercise-Resources\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\PalindromeIntegersTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Methods\\Unit-Methods\\Unit-Methods-Exercise\\TestApp.UnitTests\\PalindromeIntegersTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\PalindromeIntegersTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Unit Testing Methods\\18-Unit-Testing-Methods-Exercise-Resources\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\PalindromeIntegersTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Methods\\Unit-Methods\\Unit-Methods-Exercise\\TestApp.UnitTests\\PalindromeIntegersTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\PalindromeIntegersTests.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAiwFoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T18:28:58.265Z"
+              "WhenOpened": "2025-10-17T18:28:58.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PrimeFactorTests.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Unit Testing Methods\\18-Unit-Testing-Methods-Exercise-Resources\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\PrimeFactorTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Methods\\Unit-Methods\\Unit-Methods-Exercise\\TestApp.UnitTests\\PrimeFactorTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\PrimeFactorTests.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing QA\\Exercise-Unit Testing Methods\\18-Unit-Testing-Methods-Exercise-Resources\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\PrimeFactorTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\SoftuniExercise2025\\QA Automation Exercise\\Exercise-Unit Testing Methods\\Unit-Methods\\Unit-Methods-Exercise\\TestApp.UnitTests\\PrimeFactorTests.cs",
               "RelativeToolTip": "TestApp.UnitTests\\PrimeFactorTests.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T17:06:04.351Z",
               "EditorCaption": ""
