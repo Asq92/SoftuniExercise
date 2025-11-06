@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42113FDB-CB24-44BF-A764-0F20CA7CCE31}|05\\05..csproj|c:\\users\\lenovo\\desktop\\programing qa\\textprocessingandregularexpressions\\05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42113FDB-CB24-44BF-A764-0F20CA7CCE31}|05\\05..csproj|solutionrelative:05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A25E256-F0C8-4F14-95C1-B89A00F2437A}|04\\04..csproj|c:\\users\\lenovo\\desktop\\programing qa\\textprocessingandregularexpressions\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A25E256-F0C8-4F14-95C1-B89A00F2437A}|04\\04..csproj|solutionrelative:04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA145F78-DE05-456E-9489-F11F03B2B3E0}|03\\03..csproj|c:\\users\\lenovo\\desktop\\programing qa\\textprocessingandregularexpressions\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA145F78-DE05-456E-9489-F11F03B2B3E0}|03\\03..csproj|solutionrelative:03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B33394-1164-4B5F-98AC-203E900D1D04}|02\\02..csproj|c:\\users\\lenovo\\desktop\\programing qa\\textprocessingandregularexpressions\\02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B33394-1164-4B5F-98AC-203E900D1D04}|02\\02..csproj|solutionrelative:02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83FA92-EDD6-4CD9-AC99-F35455863161}|01\\01..csproj|c:\\users\\lenovo\\desktop\\programing qa\\textprocessingandregularexpressions\\01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83FA92-EDD6-4CD9-AC99-F35455863161}|01\\01..csproj|solutionrelative:01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\05\\Program.cs",
+              "RelativeDocumentMoniker": "05\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\05\\Program.cs",
+              "RelativeToolTip": "05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:06:16.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\04\\Program.cs",
+              "RelativeDocumentMoniker": "04\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\04\\Program.cs",
+              "RelativeToolTip": "04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:59:48.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\03\\Program.cs",
+              "RelativeDocumentMoniker": "03\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\03\\Program.cs",
+              "RelativeToolTip": "03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:50:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\02\\Program.cs",
+              "RelativeDocumentMoniker": "02\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\02\\Program.cs",
+              "RelativeToolTip": "02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:41:37.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\01\\Program.cs",
+              "RelativeDocumentMoniker": "01\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programing QA\\TextProcessingAndRegularExpressions\\01\\Program.cs",
+              "RelativeToolTip": "01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:07:43.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

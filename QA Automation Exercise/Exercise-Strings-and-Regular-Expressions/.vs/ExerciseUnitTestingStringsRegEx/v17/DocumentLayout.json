@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\exercise text processing\\02-resources-unit-testing-exercise-strings-and-regular-expressions\\exercise-strings-and-regular-expressions\\testapp.unittests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\exercise text processing\\02-resources-unit-testing-exercise-strings-and-regular-expressions\\exercise-strings-and-regular-expressions\\testapp.unittests\\matchnamestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchnamestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\exercise text processing\\02-resources-unit-testing-exercise-strings-and-regular-expressions\\exercise-strings-and-regular-expressions\\testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\exercise text processing\\02-resources-unit-testing-exercise-strings-and-regular-expressions\\exercise-strings-and-regular-expressions\\testapp.unittests\\reverseconcatenatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\reverseconcatenatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\exercise text processing\\02-resources-unit-testing-exercise-strings-and-regular-expressions\\exercise-strings-and-regular-expressions\\testapp.unittests\\textfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\textfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\exercise text processing\\02-resources-unit-testing-exercise-strings-and-regular-expressions\\exercise-strings-and-regular-expressions\\testapp.unittests\\substringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\substringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\exercise text processing\\02-resources-unit-testing-exercise-strings-and-regular-expressions\\exercise-strings-and-regular-expressions\\testapp.unittests\\repeatstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\repeatstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringBuilder-Demo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Demo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Regex\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringVsStringBuilder-Demo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\EmailValidatorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\EmailValidatorTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\EmailValidatorTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\EmailValidatorTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:09:50.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchNamesTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchNamesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchNamesTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchNamesTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatchNamesTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:46:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatternTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\PatternTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PatternTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\PatternTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PatternTests.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:17:46.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReverseConcatenateTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\ReverseConcatenateTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ReverseConcatenateTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\ReverseConcatenateTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ReverseConcatenateTests.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowFgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:51:58.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextFilterTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\TextFilterTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\TextFilterTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\TextFilterTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\TextFilterTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:08:20.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubstringTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\SubstringTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\SubstringTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\SubstringTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\SubstringTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:26:53.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringVsStringBuilder-Demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringVsStringBuilder-Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringVsStringBuilder-Demo\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringVsStringBuilder-Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:26:20.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Regex\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Regex\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Regex\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Regex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:26:10.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringBuilder-Demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringBuilder-Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringBuilder-Demo\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringBuilder-Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:25:01.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Demo\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Text Processing Regular Expressions\\01.4.Strings-Text-Processing-Regular-Expression-Demos\\StringProcessing-Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:23:02.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepeatStringsTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\RepeatStringsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\RepeatStringsTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Exercise Text Processing\\02-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\RepeatStringsTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\RepeatStringsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:14:24.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
