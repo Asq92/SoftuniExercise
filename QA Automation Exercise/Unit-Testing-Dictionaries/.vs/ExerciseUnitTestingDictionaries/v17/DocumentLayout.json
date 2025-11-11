@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\testapp.tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\testapp.tests\\minertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\minertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\testapp.tests\\oddoccurrencestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\oddoccurrencestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\testapp.tests\\groupingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\groupingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\testapp.tests\\countrealnumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\countrealnumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\lenovo\\desktop\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\04-resources-unit-testing-exercise-dictionaries-lambda-linq\\testapp.tests\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantsTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PlantsTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PlantsTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:13:08.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\OrdersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\OrdersTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\OrdersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\OrdersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:18:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinerTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\MinerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\MinerTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\MinerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\MinerTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:01:39.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OddOccurrencesTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\OddOccurrencesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\OddOccurrencesTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\OddOccurrencesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\OddOccurrencesTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T20:26:30.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupingTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\GroupingTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\GroupingTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\GroupingTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\GroupingTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:19:59.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountRealNumbersTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\CountRealNumbersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CountRealNumbersTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\CountRealNumbersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CountRealNumbersTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:59:17.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountCharactersTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\CountCharactersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CountCharactersTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\04-Resources-Unit-Testing-Exercise-Dictionaries-Lambda-LINQ\\TestApp.Tests\\CountCharactersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CountCharactersTests.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEYAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:28:37.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
