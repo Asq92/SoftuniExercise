@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\unit testing objects and classes\\07-resources-unit-testing-exercise-classes\\unit-testing-classes\\testapp.unittests\\articletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\articletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\unit testing objects and classes\\07-resources-unit-testing-exercise-classes\\unit-testing-classes\\testapp.unittests\\persontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\persontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\unit testing objects and classes\\07-resources-unit-testing-exercise-classes\\unit-testing-classes\\testapp.unittests\\vehicletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\vehicletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\unit testing objects and classes\\07-resources-unit-testing-exercise-classes\\unit-testing-classes\\testapp.unittests\\shoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\shoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\unit testing objects and classes\\07-resources-unit-testing-exercise-classes\\unit-testing-classes\\testapp.unittests\\songtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\songtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\lenovo\\desktop\\soft uni\\programing advance\\unit testing objects and classes\\07-resources-unit-testing-exercise-classes\\unit-testing-classes\\testapp.unittests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\ArticleTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ArticleTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\ArticleTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ArticleTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:35:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\PersonTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PersonTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\PersonTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PersonTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:00:43.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\VehicleTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\VehicleTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\VehicleTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\VehicleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:12:34.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\ShopTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ShopTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\ShopTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ShopTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:23:19.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SongTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\SongTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\SongTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\SongTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\SongTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:54:30.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\StudentTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\StudentTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Soft Uni\\Programing Advance\\Unit Testing Objects and Classes\\07-Resources-Unit-Testing-Exercise-Classes\\Unit-Testing-Classes\\TestApp.UnitTests\\StudentTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\StudentTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:35:16.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
