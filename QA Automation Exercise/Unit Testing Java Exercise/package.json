@@ -1,0 +1,17 @@
+{
+  "name": "unit-testing-java-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^6.2.1",
+    "mocha": "^11.7.5"
+  }
+}
