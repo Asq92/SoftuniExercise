@@ -1,0 +1,28 @@
+Команди за създаване на контейнер
+
+Всичко се записва в Терминала - Command Pro
+
+1 Задача:
+docker pull ... image - lightstreamer:latest
+-d --name ls-server -p 8080:80 lightstreamer:latest
+
+
+2 Задача:
+docker pull ... image – ghost:latest
+
+docker run -d --name ghost-container -e NODE_ENV=development -p 2368:3001 ghost:latest
+
+
+3 Задача:
+docker pull ... image – httpd:latest
+docker run -d --name my-apache-app -p 8080:80 -v ${pwd}:/usr/local/apache2/htdocs/ httpd:latest
+
+
+4 Задача:
+
+ docker run `
+>> -e ACCEPT_EULA=Y `
+>> -e MSSQL_SA_PASSWORD=yourStrongPassword12# `
+>> -p 1433:1433 `
+>> -v sqldata:/var/opt/mssql `
+>> -d mcr.microsoft.com/mssql/server

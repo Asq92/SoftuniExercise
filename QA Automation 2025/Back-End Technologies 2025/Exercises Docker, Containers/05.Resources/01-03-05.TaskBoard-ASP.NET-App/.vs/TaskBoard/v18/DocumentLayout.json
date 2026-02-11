@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\05.Resources\\01-03-05.TaskBoard-ASP.NET-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC759849-6C9C-4CF7-94B0-40C679137CCC}|TaskBoard.WebApp\\TaskBoard.WebApp.csproj|c:\\users\\lenovo\\desktop\\05.resources\\01-03-05.taskboard-asp.net-app\\taskboard.webapp\\taskboard.webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CC759849-6C9C-4CF7-94B0-40C679137CCC}|TaskBoard.WebApp\\TaskBoard.WebApp.csproj|solutionrelative:taskboard.webapp\\taskboard.webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskBoard.WebApp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\05.Resources\\01-03-05.TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
+              "RelativeDocumentMoniker": "TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\05.Resources\\01-03-05.TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
+              "RelativeToolTip": "TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T17:00:41.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
