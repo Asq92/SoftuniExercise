@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Exam1\\IdeaCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5A45E5-0CAF-4E8B-8DFE-ADBC6E13F190}|IdeaCenter\\IdeaCenter.csproj|c:\\users\\lenovo\\desktop\\exam1\\ideacenter\\ideacenter\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5A45E5-0CAF-4E8B-8DFE-ADBC6E13F190}|IdeaCenter\\IdeaCenter.csproj|solutionrelative:ideacenter\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Exam1\\IdeaCenter\\IdeaCenter\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "IdeaCenter\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Exam1\\IdeaCenter\\IdeaCenter\\UnitTest1.cs",
+              "RelativeToolTip": "IdeaCenter\\UnitTest1.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAgwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T15:33:39.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

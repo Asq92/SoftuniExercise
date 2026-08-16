@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\FoodyExam\\Foodyexam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAE8ADF-F073-4EF5-849F-04763A5B4CCE}|Foodyexam\\Foodyexam.csproj|c:\\users\\lenovo\\desktop\\foodyexam\\foodyexam\\foodyexam\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE8ADF-F073-4EF5-849F-04763A5B4CCE}|Foodyexam\\Foodyexam.csproj|solutionrelative:foodyexam\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAE8ADF-F073-4EF5-849F-04763A5B4CCE}|Foodyexam\\Foodyexam.csproj|c:\\users\\lenovo\\desktop\\foodyexam\\foodyexam\\foodyexam\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE8ADF-F073-4EF5-849F-04763A5B4CCE}|Foodyexam\\Foodyexam.csproj|solutionrelative:foodyexam\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAE8ADF-F073-4EF5-849F-04763A5B4CCE}|Foodyexam\\Foodyexam.csproj|c:\\users\\lenovo\\desktop\\foodyexam\\foodyexam\\foodyexam\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE8ADF-F073-4EF5-849F-04763A5B4CCE}|Foodyexam\\Foodyexam.csproj|solutionrelative:foodyexam\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FoodyExam\\Foodyexam\\Foodyexam\\Models\\FoodDTO.cs",
+              "RelativeDocumentMoniker": "Foodyexam\\Models\\FoodDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FoodyExam\\Foodyexam\\Foodyexam\\Models\\FoodDTO.cs",
+              "RelativeToolTip": "Foodyexam\\Models\\FoodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T17:26:13.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FoodyExam\\Foodyexam\\Foodyexam\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "Foodyexam\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FoodyExam\\Foodyexam\\Foodyexam\\Models\\ApiResponseDTO.cs*",
+              "RelativeToolTip": "Foodyexam\\Models\\ApiResponseDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T17:25:49.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\FoodyExam\\Foodyexam\\Foodyexam\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Foodyexam\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\FoodyExam\\Foodyexam\\Foodyexam\\UnitTest1.cs",
+              "RelativeToolTip": "Foodyexam\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T17:24:48.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
